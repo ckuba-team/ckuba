@@ -2,11 +2,8 @@
 
 <h4 align="center"> مرحبا بك في سورس كوبا</h4>
 
-![Repo Size](https://img.shields.io/github/repo-size/JMTHON-AR/JM-THON?&style=flat-square&logo=github)
-
 ### استخراج كود بايروكرام  ##
-
-[![من هنا](https://replit.com/@dusho/cKuBa-Source#main%20(copy).py)
+(https://replit.com/@dusho/cKuBa-Source#main%20
 
 - احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
 
