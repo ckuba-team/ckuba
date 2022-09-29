@@ -1,4 +1,4 @@
-<h1 align="center"><b> سورس ميوزك كوبا </b></h1>
+<h1 align="center"><b> سورس كوبا </b></h1>
 
 <h4 align="center"> مرحبا بك في سورس كوبا</h4>
 
@@ -6,7 +6,7 @@
 
 ### استخراج كود بايروكرام  ##
 
-[![Run on Repl.it](https://replit.com/@dusho/cKuBa-Source#main%20(copy).py)
+[![من هنا](https://replit.com/@dusho/cKuBa-Source#main%20(copy).py)
 
 - احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
 
